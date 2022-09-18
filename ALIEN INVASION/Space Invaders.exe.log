@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "spaceinvaders.py", line 22, in <module>
+  File "spaceinvaders.py", line 22, in <dictcomp>
+pygame.error: Couldn't open images/ship.png
+Traceback (most recent call last):
+  File "spaceinvaders.py", line 22, in <module>
+  File "spaceinvaders.py", line 22, in <dictcomp>
+pygame.error: Couldn't open images/ship.png
+Traceback (most recent call last):
+  File "spaceinvaders.py", line 22, in <module>
+  File "spaceinvaders.py", line 22, in <dictcomp>
+pygame.error: Couldn't open images/ship.png
